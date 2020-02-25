@@ -1,0 +1,11 @@
+C:\Users\jonat\Documents\C#\Projects\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.exe
+C:\Users\jonat\Documents\C#\Projects\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.deps.json
+C:\Users\jonat\Documents\C#\Projects\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.json
+C:\Users\jonat\Documents\C#\Projects\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.dev.json
+C:\Users\jonat\Documents\C#\Projects\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.dll
+C:\Users\jonat\Documents\C#\Projects\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.pdb
+C:\Users\jonat\Documents\C#\Projects\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.csprojAssemblyReference.cache
+C:\Users\jonat\Documents\C#\Projects\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\C#\Projects\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfo.cs
+C:\Users\jonat\Documents\C#\Projects\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.dll
+C:\Users\jonat\Documents\C#\Projects\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.pdb
