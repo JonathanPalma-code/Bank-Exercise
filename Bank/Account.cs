@@ -2,6 +2,7 @@
 
 namespace Bank {
   class Account {
+		
 		private string _header = "Account Details";
 		private int _taxWithdraw = 5;
 		public int AccountId { get; private set; }
